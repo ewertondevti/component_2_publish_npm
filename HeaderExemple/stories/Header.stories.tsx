@@ -1,4 +1,4 @@
-import Header from "../src/Header";
+import Header from "../src/index";
 import { ComponentMeta, ComponentStory } from "@storybook/react";
 
 export default {

@@ -2,7 +2,7 @@ const CopyPlugin = require("copy-webpack-plugin");
 const path = require("path");
 
 module.exports = {
-  entry: "./src/Header.tsx",
+  entry: "./src/index.tsx",
   plugins: [
     new CopyPlugin({
       patterns: [

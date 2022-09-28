@@ -1,5 +1,5 @@
 import React, { FC, ReactNode } from "react";
-import HeaderMenu from "../src/HeaderMenu";
+import HeaderMenu from "./HeaderMenu";
 import "./Header.scss";
 
 type Props = {
